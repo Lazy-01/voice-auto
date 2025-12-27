@@ -15,7 +15,6 @@ export default [
         },
         selfMute: true,
     },
-
         {
         channelId: "1360789078403977246",
         serverId: "996135517320134776",
